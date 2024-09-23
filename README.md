@@ -32,7 +32,7 @@
 - React - **Front-end**
 - Bootstrap - **Front-end & Back-end**
 ### npm Requirements (React)
-- nmp axios
+- npm axios
 - npm react-router-dom
 ### Other Software Tools
 - **MySQLWorkbench** played a role where the **back-end** relied on this technology to **store user information**.
